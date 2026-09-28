@@ -25,6 +25,6 @@
     "uuid": "^14.0.2"
   },
   "devDependencies": {
-    "supertest": "^7.2.2"
+    "supertest": "^7.3.0"
   }
 }
